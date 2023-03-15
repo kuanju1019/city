@@ -1,6 +1,6 @@
 package com.example.service;
 
-import com.zetcode.model.City;
+import com.example.model.City;
 import java.util.List;
 
 public interface ICityService {

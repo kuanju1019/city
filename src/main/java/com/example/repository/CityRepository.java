@@ -1,6 +1,6 @@
 package com.example.repository;
 
-import com.zetcode.model.City;
+import com.example.model.City;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
